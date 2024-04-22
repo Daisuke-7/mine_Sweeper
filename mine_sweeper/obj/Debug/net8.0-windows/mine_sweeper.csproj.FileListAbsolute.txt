@@ -1,0 +1,16 @@
+C:\Users\ekusi\source\repos\mine_sweeper\mine_sweeper\obj\Debug\net8.0-windows\mine_sweeper.Form1.resources
+C:\Users\ekusi\source\repos\mine_sweeper\mine_sweeper\obj\Debug\net8.0-windows\mine_sweeper.csproj.GenerateResource.cache
+C:\Users\ekusi\source\repos\mine_sweeper\mine_sweeper\obj\Debug\net8.0-windows\mine_sweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekusi\source\repos\mine_sweeper\mine_sweeper\obj\Debug\net8.0-windows\mine_sweeper.AssemblyInfoInputs.cache
+C:\Users\ekusi\source\repos\mine_sweeper\mine_sweeper\obj\Debug\net8.0-windows\mine_sweeper.AssemblyInfo.cs
+C:\Users\ekusi\source\repos\mine_sweeper\mine_sweeper\obj\Debug\net8.0-windows\mine_sweeper.csproj.CoreCompileInputs.cache
+C:\Users\ekusi\source\repos\mine_sweeper\mine_sweeper\bin\Debug\net8.0-windows\mine_sweeper.exe
+C:\Users\ekusi\source\repos\mine_sweeper\mine_sweeper\bin\Debug\net8.0-windows\mine_sweeper.deps.json
+C:\Users\ekusi\source\repos\mine_sweeper\mine_sweeper\bin\Debug\net8.0-windows\mine_sweeper.runtimeconfig.json
+C:\Users\ekusi\source\repos\mine_sweeper\mine_sweeper\bin\Debug\net8.0-windows\mine_sweeper.dll
+C:\Users\ekusi\source\repos\mine_sweeper\mine_sweeper\bin\Debug\net8.0-windows\mine_sweeper.pdb
+C:\Users\ekusi\source\repos\mine_sweeper\mine_sweeper\obj\Debug\net8.0-windows\mine_sweeper.dll
+C:\Users\ekusi\source\repos\mine_sweeper\mine_sweeper\obj\Debug\net8.0-windows\refint\mine_sweeper.dll
+C:\Users\ekusi\source\repos\mine_sweeper\mine_sweeper\obj\Debug\net8.0-windows\mine_sweeper.pdb
+C:\Users\ekusi\source\repos\mine_sweeper\mine_sweeper\obj\Debug\net8.0-windows\mine_sweeper.genruntimeconfig.cache
+C:\Users\ekusi\source\repos\mine_sweeper\mine_sweeper\obj\Debug\net8.0-windows\ref\mine_sweeper.dll
